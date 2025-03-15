@@ -123,7 +123,7 @@ export default function Home() {
               className="object-cover"
               priority
             />
-            <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
+            {/* <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div> */}
           </div>
         </div>
       </section>
