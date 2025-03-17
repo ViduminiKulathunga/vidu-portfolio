@@ -617,6 +617,7 @@ export default function Home() {
             ].map((social, index) => (
               <a
                 key={index}
+                target="blank"
                 href={social.url}
                 className="w-10 h-10 rounded-full bg-gray-800 flex items-center justify-center hover:bg-gray-700 transition"
                 aria-label={social.name}
