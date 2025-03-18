@@ -146,7 +146,7 @@ export default function Home() {
     },
   ];
 
-  // Tech stack data with logos
+  // Tech stack data with logo
   const techStack = [
     "TypeScript",
     "Node.js",
