@@ -627,7 +627,7 @@ export default function Home() {
           </div>
         </div>
         <div className="text-center text-gray-500 text-sm mt-12">
-          © {new Date().getFullYear()} Saumya Kulathunga. All rights reserved.
+          © {new Date().getFullYear()} Saumya Kulathunga. All Rights Reserved.
         </div>
       </footer>
 
