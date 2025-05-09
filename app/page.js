@@ -26,9 +26,8 @@ export default function Home() {
       category: "Backend",
       items: [
         "Node.js/Express",
-        "RabbitMQ",
+        "RabbitMQ/Kafka",
         "Java/Spring Boot",
-        "Python/Django",
         "RESTful APIs/gRPC",
         "GraphQL",
       ],
@@ -39,7 +38,7 @@ export default function Home() {
     },
     {
       category: "DevOps",
-      items: ["Docker", "CI/CD", "AWS/Azure", "Kubernetes"],
+      items: ["Docker", "CI/CD", "AWS/GCP/Azure", "Kubernetes"],
     },
   ];
 
@@ -64,14 +63,14 @@ export default function Home() {
       company: "Informatics International Ltd",
       period: "2021 - 2022",
       description:
-        "Senior developer for enterprise SaaS applications, architecting scalable solutions using React, Node.js, GraphQL and AWS. Implemented Kubernete, CI/CD pipelines and mentored junior developers.",
+        "Senior developer for enterprise SaaS applications, architecting scalable solutions using React, Node.js, GraphQL, Kubernetes, Serverless  and AWS. Implemented Kubernete, CI/CD pipelines and mentored junior developers.",
     },
     {
       role: "Associate Software Engineer",
       company: "Ceylon Systems (Pvt) Ltd",
       period: "2016 - 2018",
       description:
-        "A Full-Stack Software Developer, built responsive web/mobile applications using React, Redux, Node.js, GraphQL, PHP and Laravel.",
+        "A Full-Stack Software Developer, built responsive web/mobile applications using React, Redux, Node.js, GraphQL, GCP, Azure and Serverless.",
     },
     {
       role: "Web Developer",
