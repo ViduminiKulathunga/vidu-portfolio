@@ -301,7 +301,7 @@ export default function Home() {
             </div>
             <div className="pt-4">
               <a
-                href="/Saumya_CV_3.pdf"
+                href="/Saumya_CV.pdf"
                 download
                 className="bg-white text-black hover:bg-gray-200 inline-flex items-center px-4 py-2 rounded-md font-medium"
               >
